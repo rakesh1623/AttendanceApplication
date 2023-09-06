@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">connect_db</string>
+    <string name="lp"><u>LOGIN PAGE</u></string>
+    <string name="un">Username : </string>
+    <string name="ps">Password : </string>
+    <string name="input_un"></string>
+    <string name="login_btn">LOGIN</string>
+    <string name="singup_btn">SIGN UP</string>
+    <string name="reg"><u>Welcome to Registration page</u></string>
+    <string name="title_activity_studentinfo">studentinfo</string>
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dt"><u>DETAILS PAGE</u></string>
+    <string name="resetpass"><u>FORGET PASSWORD PAGE</u></string>
+    <string name="att"><u>Attendance Page</u></string>
+    <string name="addatt"><u>ADD THE ATTENDANCE LINK</u></string>
+
+</resources>

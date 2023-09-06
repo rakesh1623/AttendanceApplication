@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/details"
+            android:title="Details"
+            android:icon="@drawable/user"/>
+        <item
+            android:id="@+id/attendance"
+            android:title="Attendance"
+            android:icon="@drawable/attendance"/>
+        <item
+            android:id="@+id/sem_mark"
+            android:title="Semester Marks"
+            android:icon="@drawable/book"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:title="Functions">
+            <menu>
+                <item
+                    android:id="@+id/logout"
+                    android:title="Logout"
+                    android:icon="@drawable/logout"/>
+                <item
+                    android:id="@+id/change_pass"
+                    android:title="Change Password"
+                    android:icon="@drawable/reset_password"/>
+            </menu>
+
+
+        </item>
+    </group>
+
+
+</menu>
